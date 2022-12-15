@@ -1,1 +1,1 @@
-# Dual-CSA-Amplifier
+# Dual-CSA with Amplifier
