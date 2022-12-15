@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\luitz\OneDrive-luitz\OneDrive\Documents\KiCAD\CSA+Shaper-Module\CSA+Shaper-Module.kicad_sch</source>
+    <date>12/13/2022 1:38:53 PM</date>
+    <tool>Eeschema (6.0.9)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CSA+Shaper-Module.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>power_suppply.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CAS+Amp.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CAS+Amp.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H101">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a27339d-f8a4-45e1-82d3-9a1fdb4fcf5f</tstamps>
+    </comp>
+    <comp ref="H102">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>984a95bf-ba61-42b9-a96d-348b5752aee4</tstamps>
+    </comp>
+    <comp ref="H103">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fa501a6-4a46-469b-aef8-007e3af843ee</tstamps>
+    </comp>
+    <comp ref="H104">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f56d485a-6e11-4ef7-aa6f-3973511e339e</tstamps>
+    </comp>
+    <comp ref="J101">
+      <value>DB25_Female_MountingHoles</value>
+      <footprint>Connector_Dsub:DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="DB25_Female_MountingHoles" description="25-pin female D-SUB connector, Mounting Hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaa89e17-ac54-456c-931a-7a4239a0064d</tstamps>
+    </comp>
+    <comp ref="J102">
+      <value>Direct in</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132203-12_Horizontal</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/238/consma002-l-g-1544715.pdf</datasheet>
+      <fields>
+        <field name="Mouser"> 712-CONSMA002-L-G </field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value=" 712-CONSMA002-L-G "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0388a301-bb48-4579-858e-cf2897d6b6de</tstamps>
+    </comp>
+    <comp ref="J103">
+      <value>Direct in</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132203-12_Horizontal</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/238/consma002-l-g-1544715.pdf</datasheet>
+      <fields>
+        <field name="Mouser"> 712-CONSMA002-L-G </field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value=" 712-CONSMA002-L-G "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4b1a393-87e3-4863-bcc7-860d1f1ea1bc</tstamps>
+    </comp>
+    <comp ref="J104">
+      <value>Bias In</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132203-12_Horizontal</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/238/consma002-l-g-1544715.pdf</datasheet>
+      <fields>
+        <field name="Mouser"> 712-CONSMA002-L-G </field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value=" 712-CONSMA002-L-G "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e27e17b-452e-4baa-a155-afb6718c09b3</tstamps>
+    </comp>
+    <comp ref="J105">
+      <value>Output</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132203-12_Horizontal</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/238/consma002-l-g-1544715.pdf</datasheet>
+      <fields>
+        <field name="Mouser"> 712-CONSMA002-L-G </field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value=" 712-CONSMA002-L-G "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0da83d3e-b1ab-483f-a02f-01b90c3f43d5</tstamps>
+    </comp>
+    <comp ref="J106">
+      <value>Output</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132203-12_Horizontal</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/238/consma002-l-g-1544715.pdf</datasheet>
+      <fields>
+        <field name="Mouser"> 712-CONSMA002-L-G </field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value=" 712-CONSMA002-L-G "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CSA+Shaper-Module.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91de759a-8ac4-4dbc-bb1b-19ce3078be6f</tstamps>
+    </comp>
+    <comp ref="C201">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">810-C2012X7R1H105K </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="810-C2012X7R1H105K "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>9da8e7a0-39f7-4c6e-8860-0406f00503e1</tstamps>
+    </comp>
+    <comp ref="C202">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">810-C2012X7R1H105K </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="810-C2012X7R1H105K "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>d72afc68-caf2-4ec1-a751-16b0368e2d1e</tstamps>
+    </comp>
+    <comp ref="C203">
+      <value>0.33uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805X334K5RAUTO </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805X334K5RAUTO "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>a3fef393-b38d-442f-a94a-d008b1a4deb0</tstamps>
+    </comp>
+    <comp ref="C204">
+      <value>0.33uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805X334K5RAUTO </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805X334K5RAUTO "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>ebd6955b-79e3-44af-8201-96cbf4c4f813</tstamps>
+    </comp>
+    <comp ref="C205">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>b14e1468-26fd-4e43-a469-87dfb40fe039</tstamps>
+    </comp>
+    <comp ref="C206">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>702a4526-006c-4b52-939d-cb88859521d8</tstamps>
+    </comp>
+    <comp ref="C207">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>1a5f4645-680b-4176-b7d9-989668820683</tstamps>
+    </comp>
+    <comp ref="C208">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>1514b061-ae62-4e36-9756-05720d4dbf87</tstamps>
+    </comp>
+    <comp ref="D201">
+      <value>RB751V-40</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/1057/RB751V-40-1876951.pdf</datasheet>
+      <fields>
+        <field name="Digikey">3757-RB751V-40-AU_R1_000A1CT-ND</field>
+        <field name="Mouser">241-RB751V-40R100001 </field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="3757-RB751V-40-AU_R1_000A1CT-ND"/>
+      <property name="Mouser" value="241-RB751V-40R100001 "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>8f59848b-f8bf-46cd-a6fc-4746142b159a</tstamps>
+    </comp>
+    <comp ref="D202">
+      <value>RB751V-40</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/1057/RB751V-40-1876951.pdf</datasheet>
+      <fields>
+        <field name="Digikey">3757-RB751V-40-AU_R1_000A1CT-ND</field>
+        <field name="Mouser">241-RB751V-40R100001 </field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey" value="3757-RB751V-40-AU_R1_000A1CT-ND"/>
+      <property name="Mouser" value="241-RB751V-40R100001 "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>0880e8cd-4f9d-44f7-9eed-ed9e67290786</tstamps>
+    </comp>
+    <comp ref="J201">
+      <value>Barrel_Jack</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987</datasheet>
+      <fields>
+        <field name="Digikey">839-1580-ND</field>
+      </fields>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Digikey" value="839-1580-ND"/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>5a53c14a-8ccc-4314-996d-9d0b90816c6d</tstamps>
+    </comp>
+    <comp ref="J202">
+      <value>DC Power</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>d8acc006-f433-4a5f-b19c-256d9a50008a</tstamps>
+    </comp>
+    <comp ref="J203">
+      <value>-8V</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>f476b974-0ab3-4aab-9b01-7a73bf9dd156</tstamps>
+    </comp>
+    <comp ref="J204">
+      <value>+8V</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>82ee107b-f884-4a23-9722-b8520cf0001b</tstamps>
+    </comp>
+    <comp ref="J205">
+      <value>GND</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>0f01fcf3-2ee0-4fd4-98cb-2b4b967b17b2</tstamps>
+    </comp>
+    <comp ref="L201">
+      <value>L_Small</value>
+      <footprint>Inductor_THT:L_Radial_D7.0mm_P3.00mm</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/54/rlb-777833.pdf</datasheet>
+      <fields>
+        <field name="Digikey">RLB0812-101KL-ND</field>
+        <field name="Mouser">652-RLB0812-101KL </field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Digikey" value="RLB0812-101KL-ND"/>
+      <property name="Mouser" value="652-RLB0812-101KL "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>eb421680-5f30-43f2-884c-24df60ea819f</tstamps>
+    </comp>
+    <comp ref="R201">
+      <value>4.7</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/418/5/ENG_DS_9_1773463_7_G-https://www.mouser.com/datasheet/2/315/AOA0000C331-1141874.pdf</datasheet>
+      <fields>
+        <field name="Digikey">A121265CT-ND</field>
+        <field name="Mouser">667-ERJ-P06F4300V </field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="A121265CT-ND"/>
+      <property name="Mouser" value="667-ERJ-P06F4300V "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>5ec57c81-801e-4a1c-9d04-ee86550c4898</tstamps>
+    </comp>
+    <comp ref="R202">
+      <value>7.15k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/348/ROHM_S_A0011075115_1-2563276.pdf</datasheet>
+      <fields>
+        <field name="Digikey">311-2.94KCRCT-ND</field>
+        <field name="Mouser">755-KTR10EZPF7151 </field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value="311-2.94KCRCT-ND"/>
+      <property name="Mouser" value="755-KTR10EZPF7151 "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>5383079c-b9b4-401c-932d-ad6ba29f03f0</tstamps>
+    </comp>
+    <comp ref="R203">
+      <value>430</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/315/AOA0000C331-1141874.pdf</datasheet>
+      <fields>
+        <field name="Mouser">667-ERJ-P06F4300V </field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="667-ERJ-P06F4300V "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>fdae1682-bba9-425b-bd7f-af8b9068fa11</tstamps>
+    </comp>
+    <comp ref="TH201">
+      <value>PTC 200mA</value>
+      <footprint>Fuse:Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/643/ds_CP_0zch_series-1664103.pdf</datasheet>
+      <fields>
+        <field name="Mouser">530-0ZCH0020FF2E </field>
+      </fields>
+      <libsource lib="Device" part="Thermistor_PTC_US" description="Temperature dependent resistor, positive temperature coefficient, US symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="530-0ZCH0020FF2E "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>7b0838af-3b44-44b6-aa10-f628d8fddab4</tstamps>
+    </comp>
+    <comp ref="U201">
+      <value>LM317L</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3_Handsoldering</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=https://www.ti.com/lit/gpn/lm317l</datasheet>
+      <fields>
+        <field name="Digikey">296-50352-1-ND</field>
+        <field name="Mouser">595-LM317LCPK </field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LM317_TO-220" description="1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="Digikey" value="296-50352-1-ND"/>
+      <property name="Mouser" value="595-LM317LCPK "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>b2664b29-cc56-4bf6-89f3-e3c323f7196b</tstamps>
+    </comp>
+    <comp ref="U202">
+      <value>UA78M08</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-3_TabPin2</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=https://www.ti.com/lit/gpn/ua78m</datasheet>
+      <fields>
+        <field name="Digikey">296-12612-1-ND</field>
+        <field name="Mouser">595-UA78M08CKVURG3 </field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="uA7808" description="Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220/TO-263"/>
+      <property name="Digikey" value="296-12612-1-ND"/>
+      <property name="Mouser" value="595-UA78M08CKVURG3 "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>20d91665-3960-4208-a8fc-9c9fcf66f218</tstamps>
+    </comp>
+    <comp ref="U203">
+      <value>UA79M08</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-3_TabPin2</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/texas-https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=https://www.ti.com/lit/gpn/ua79m</datasheet>
+      <fields>
+        <field name="Digikey">296-19678-1-ND</field>
+        <field name="Mouser">595-UA79M08CKVURG3 </field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="uA7808" description="Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220/TO-263"/>
+      <property name="Digikey" value="296-19678-1-ND"/>
+      <property name="Mouser" value="595-UA79M08CKVURG3 "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>9c4ea54c-1bc8-44e1-8763-b97fdaafe45b</tstamps>
+    </comp>
+    <comp ref="U204">
+      <value>TLE2426xP</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.mouser.com/c/semiconductors/power-management-ics/voltage-references/?m=Texas%20Instruments&amp;series=TLE2426-EP</datasheet>
+      <fields>
+        <field name="Digikey">296-47278-1-ND</field>
+        <field name="Mouser">595-TLE2426MDREP </field>
+      </fields>
+      <libsource lib="Reference_Voltage" part="TLE2426xD" description="Precision virtual ground, noise reduction pin, 4V to 40V input, SOIC-8"/>
+      <property name="Digikey" value="296-47278-1-ND"/>
+      <property name="Mouser" value="595-TLE2426MDREP "/>
+      <property name="Sheetname" value="Power Supply"/>
+      <property name="Sheetfile" value="power_suppply.kicad_sch"/>
+      <sheetpath names="/Power Supply/" tstamps="/aec9b049-86b8-4e65-a23e-267c0581eaac/"/>
+      <tstamps>4a4d7b3f-b90e-4b55-acd5-b85544e41b3e</tstamps>
+    </comp>
+    <comp ref="C301">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_midvoltage_en.pdf?ref_disty=mouser</datasheet>
+      <fields>
+        <field name="Mouser">810-CGA9N4C0G2W104JA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser" value="810-CGA9N4C0G2W104JA"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>aaced904-c4a6-4350-a982-f5b9e4980523</tstamps>
+    </comp>
+    <comp ref="C302">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_midvoltage_en.pdf?ref_disty=mouser</datasheet>
+      <fields>
+        <field name="Mouser">810-CGA9N4C0G2W104JA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser" value="810-CGA9N4C0G2W104JA"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>c9a3182b-da8c-41aa-bf44-0575e8e8721a</tstamps>
+    </comp>
+    <comp ref="C303">
+      <value>open</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>22e85ae4-123a-4c74-a584-5d511ae03992</tstamps>
+    </comp>
+    <comp ref="C304">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf</datasheet>
+      <fields>
+        <field name="Mouser">963-GMK212BBJ106KG-T </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="963-GMK212BBJ106KG-T "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>17ac8457-f1f8-424a-af97-76be896fe45c</tstamps>
+    </comp>
+    <comp ref="C305">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf</datasheet>
+      <fields>
+        <field name="Mouser">963-GMK212BBJ106KG-T </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="963-GMK212BBJ106KG-T "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>3f2909a3-467e-4d5c-ad90-38a56b4464fd</tstamps>
+    </comp>
+    <comp ref="C306">
+      <value>open</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>633adb70-897a-4e03-bd8b-a38a79a73358</tstamps>
+    </comp>
+    <comp ref="C307">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>71a964dc-8cd6-45c2-9201-021f4d4811d2</tstamps>
+    </comp>
+    <comp ref="C308">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>f55e2947-213b-441b-96a7-d92e71bf6320</tstamps>
+    </comp>
+    <comp ref="FB301">
+      <value>FerriteBead_Small</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/54/Bourns_MGMUMZ_datasheet-2997887.pdf</datasheet>
+      <fields>
+        <field name="Digikey">732-6715-1-ND</field>
+        <field name="Mouser">652-MU3261-301Y </field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Digikey" value="732-6715-1-ND"/>
+      <property name="Mouser" value="652-MU3261-301Y "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>f2f977b4-5e22-4e2a-95ad-95cd614a0598</tstamps>
+    </comp>
+    <comp ref="FB302">
+      <value>FerriteBead_Small</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/54/Bourns_MGMUMZ_datasheet-2997887.pdf</datasheet>
+      <fields>
+        <field name="Digikey">732-6715-1-ND</field>
+        <field name="Mouser">652-MU3261-301Y </field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Digikey" value="732-6715-1-ND"/>
+      <property name="Mouser" value="652-MU3261-301Y "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>ef3ed1c8-6976-47d0-9fd8-ca1f0f75aadf</tstamps>
+    </comp>
+    <comp ref="J301">
+      <value>CA probe</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>698b2df6-e602-44bb-910e-91419e1ac60f</tstamps>
+    </comp>
+    <comp ref="J302">
+      <value>RV Prob</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>617dd339-6c58-488d-a71b-961b48343c42</tstamps>
+    </comp>
+    <comp ref="JP301">
+      <value>Jumper_2_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>15ed0e60-ee6b-4822-a7a5-152c5d76733f</tstamps>
+    </comp>
+    <comp ref="R301">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/315/AOA0000C334-1314047.pdf</datasheet>
+      <fields>
+        <field name="Mouser">667-ERJ-S06F1005V </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="667-ERJ-S06F1005V "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>45e89515-2b1a-49e2-940b-cbc668cad501</tstamps>
+    </comp>
+    <comp ref="R302">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/427/crcwhpe3-1713858.pdf</datasheet>
+      <fields>
+        <field name="Mouser">71-CRCW08050000Z0EAH </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW08050000Z0EAH "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>94646722-b7cf-4378-8472-52d175ee1001</tstamps>
+    </comp>
+    <comp ref="R303">
+      <value>open</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>40b0f9ad-2fc2-4d77-80a0-570f64099417</tstamps>
+    </comp>
+    <comp ref="R304">
+      <value>100M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/427/dcrcwhre3-1761765.pdf</datasheet>
+      <fields>
+        <field name="Mouser">71-CRCW1206100MJPEAR </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW1206100MJPEAR "/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>38e95fe4-0909-4046-849e-24102aa1aa5e</tstamps>
+    </comp>
+    <comp ref="R305">
+      <value>100M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/427/dcrcwhre3-1761765.pdf</datasheet>
+      <fields>
+        <field name="Mouser">71-CRCW1206100MJPEAR </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW1206100MJPEAR "/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>e5d1cafa-9b41-4388-bf05-b1829332fbc7</tstamps>
+    </comp>
+    <comp ref="R306">
+      <value>open</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>a77a9c61-969f-4029-93bf-db4460a2e894</tstamps>
+    </comp>
+    <comp ref="R307">
+      <value>750</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">71-CRCW0805750RFKEAC </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW0805750RFKEAC "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>3a88aef7-e037-4002-93f3-5678224607c7</tstamps>
+    </comp>
+    <comp ref="R308">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">667-ERJ-6ENF2002V </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="667-ERJ-6ENF2002V "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>57b9efa3-3969-4369-b986-fc82e51ebcdf</tstamps>
+    </comp>
+    <comp ref="RV301">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical</footprint>
+      <fields>
+        <field name="Mouser">652-3266W-1-103LF </field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <property name="Mouser" value="652-3266W-1-103LF "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>26d61d07-2e7f-4f18-bc19-2e7d3cca909b</tstamps>
+    </comp>
+    <comp ref="U301">
+      <value>CR110</value>
+      <footprint>CrematModules:CR11x</footprint>
+      <libsource lib="ESC_Electronics" part="CR110" description=""/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>88ccf447-b695-4673-8c7e-8e5ac32c8547</tstamps>
+    </comp>
+    <comp ref="U303">
+      <value>TL071</value>
+      <footprint>Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Mouser">595-TL071CDR </field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL071" description="Single Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Mouser" value="595-TL071CDR "/>
+      <property name="Sheetname" value="CSA+Amp"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp/" tstamps="/3cc0283d-5135-4322-99ab-ba7eddcc5a87/"/>
+      <tstamps>3de95713-3837-4f57-afaa-f1402f04d468</tstamps>
+    </comp>
+    <comp ref="C401">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_midvoltage_en.pdf?ref_disty=mouser</datasheet>
+      <fields>
+        <field name="Mouser">810-CGA9N4C0G2W104JA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser" value="810-CGA9N4C0G2W104JA"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>aaced904-c4a6-4350-a982-f5b9e4980523</tstamps>
+    </comp>
+    <comp ref="C402">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_midvoltage_en.pdf?ref_disty=mouser</datasheet>
+      <fields>
+        <field name="Mouser">810-CGA9N4C0G2W104JA</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mouser" value="810-CGA9N4C0G2W104JA"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>c9a3182b-da8c-41aa-bf44-0575e8e8721a</tstamps>
+    </comp>
+    <comp ref="C403">
+      <value>open</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>22e85ae4-123a-4c74-a584-5d511ae03992</tstamps>
+    </comp>
+    <comp ref="C404">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf</datasheet>
+      <fields>
+        <field name="Mouser">963-GMK212BBJ106KG-T </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="963-GMK212BBJ106KG-T "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>17ac8457-f1f8-424a-af97-76be896fe45c</tstamps>
+    </comp>
+    <comp ref="C405">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf</datasheet>
+      <fields>
+        <field name="Mouser">963-GMK212BBJ106KG-T </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="963-GMK212BBJ106KG-T "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>3f2909a3-467e-4d5c-ad90-38a56b4464fd</tstamps>
+    </comp>
+    <comp ref="C406">
+      <value>open</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>633adb70-897a-4e03-bd8b-a38a79a73358</tstamps>
+    </comp>
+    <comp ref="C407">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>71a964dc-8cd6-45c2-9201-021f4d4811d2</tstamps>
+    </comp>
+    <comp ref="C408">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">80-C0805C104K5RACLR </field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Digikey" value=""/>
+      <property name="Mouser" value="80-C0805C104K5RACLR "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>f55e2947-213b-441b-96a7-d92e71bf6320</tstamps>
+    </comp>
+    <comp ref="FB401">
+      <value>FerriteBead_Small</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/54/Bourns_MGMUMZ_datasheet-2997887.pdf</datasheet>
+      <fields>
+        <field name="Digikey">732-6715-1-ND</field>
+        <field name="Mouser">652-MU3261-301Y </field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Digikey" value="732-6715-1-ND"/>
+      <property name="Mouser" value="652-MU3261-301Y "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>f2f977b4-5e22-4e2a-95ad-95cd614a0598</tstamps>
+    </comp>
+    <comp ref="FB402">
+      <value>FerriteBead_Small</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/54/Bourns_MGMUMZ_datasheet-2997887.pdf</datasheet>
+      <fields>
+        <field name="Digikey">732-6715-1-ND</field>
+        <field name="Mouser">652-MU3261-301Y </field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Digikey" value="732-6715-1-ND"/>
+      <property name="Mouser" value="652-MU3261-301Y "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>ef3ed1c8-6976-47d0-9fd8-ca1f0f75aadf</tstamps>
+    </comp>
+    <comp ref="J401">
+      <value>CA probe</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>698b2df6-e602-44bb-910e-91419e1ac60f</tstamps>
+    </comp>
+    <comp ref="J402">
+      <value>RV Prob</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>617dd339-6c58-488d-a71b-961b48343c42</tstamps>
+    </comp>
+    <comp ref="JP401">
+      <value>Jumper_2_Open</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>15ed0e60-ee6b-4822-a7a5-152c5d76733f</tstamps>
+    </comp>
+    <comp ref="R401">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/315/AOA0000C334-1314047.pdf</datasheet>
+      <fields>
+        <field name="Mouser">667-ERJ-S06F1005V </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="667-ERJ-S06F1005V "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>45e89515-2b1a-49e2-940b-cbc668cad501</tstamps>
+    </comp>
+    <comp ref="R402">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/427/crcwhpe3-1713858.pdf</datasheet>
+      <fields>
+        <field name="Mouser">71-CRCW08050000Z0EAH </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW08050000Z0EAH "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>94646722-b7cf-4378-8472-52d175ee1001</tstamps>
+    </comp>
+    <comp ref="R403">
+      <value>open</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>40b0f9ad-2fc2-4d77-80a0-570f64099417</tstamps>
+    </comp>
+    <comp ref="R404">
+      <value>100M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/427/dcrcwhre3-1761765.pdf</datasheet>
+      <fields>
+        <field name="Mouser">71-CRCW1206100MJPEAR </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW1206100MJPEAR "/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>38e95fe4-0909-4046-849e-24102aa1aa5e</tstamps>
+    </comp>
+    <comp ref="R405">
+      <value>100M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
+      <datasheet>https://www.mouser.com/datasheet/2/427/dcrcwhre3-1761765.pdf</datasheet>
+      <fields>
+        <field name="Mouser">71-CRCW1206100MJPEAR </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW1206100MJPEAR "/>
+      <property name="Digikey" value=""/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>e5d1cafa-9b41-4388-bf05-b1829332fbc7</tstamps>
+    </comp>
+    <comp ref="R406">
+      <value>open</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>a77a9c61-969f-4029-93bf-db4460a2e894</tstamps>
+    </comp>
+    <comp ref="R407">
+      <value>750</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">71-CRCW0805750RFKEAC </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="71-CRCW0805750RFKEAC "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>3a88aef7-e037-4002-93f3-5678224607c7</tstamps>
+    </comp>
+    <comp ref="R408">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mouser">667-ERJ-6ENF2002V </field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Mouser" value="667-ERJ-6ENF2002V "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>57b9efa3-3969-4369-b986-fc82e51ebcdf</tstamps>
+    </comp>
+    <comp ref="RV401">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical</footprint>
+      <fields>
+        <field name="Mouser">652-3266W-1-103LF </field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <property name="Mouser" value="652-3266W-1-103LF "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>26d61d07-2e7f-4f18-bc19-2e7d3cca909b</tstamps>
+    </comp>
+    <comp ref="U401">
+      <value>CR110</value>
+      <footprint>CrematModules:CR11x</footprint>
+      <libsource lib="ESC_Electronics" part="CR110" description=""/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>88ccf447-b695-4673-8c7e-8e5ac32c8547</tstamps>
+    </comp>
+    <comp ref="U403">
+      <value>TL071</value>
+      <footprint>Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Mouser">595-TL071CDR </field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL071" description="Single Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Mouser" value="595-TL071CDR "/>
+      <property name="Sheetname" value="CSA+Amp1"/>
+      <property name="Sheetfile" value="CAS+Amp.kicad_sch"/>
+      <sheetpath names="/CSA+Amp1/" tstamps="/23936c47-d623-428e-a19a-84334af95a77/"/>
+      <tstamps>3de95713-3837-4f57-afaa-f1402f04d468</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="TL071">
+      <description>Single Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl071.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL071</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl071.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NULL" type="input"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="NULL" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack">
+      <description>DC Barrel Jack</description>
+      <docs>https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J6</field>
+        <field name="Value">Barrel_Jack</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet">https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987</field>
+        <field name="Digikey">839-1580-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="power_out"/>
+        <pin num="2" name="" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="DB25_Female_MountingHoles">
+      <description>25-pin female D-SUB connector, Mounting Hole</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>DSUB*Female*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DB25_Female_MountingHoles</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="0" name="PAD" type="passive"/>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+        <pin num="21" name="P21" type="passive"/>
+        <pin num="22" name="P22" type="passive"/>
+        <pin num="23" name="P23" type="passive"/>
+        <pin num="24" name="P24" type="passive"/>
+        <pin num="25" name="P25" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Trim">
+      <description>Trim-potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor_PTC_US">
+      <description>Temperature dependent resistor, positive temperature coefficient, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*PTC*</fp>
+        <fp>*Thermistor*</fp>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_PTC_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESC_Electronics" part="CR110">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CR110</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Input" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="-Vs" type="input"/>
+        <pin num="6" name="+Vs" type="input"/>
+        <pin num="7" name="GND" type="input"/>
+        <pin num="8" name="output" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Reference_Voltage" part="TLE2426xD">
+      <description>Precision virtual ground, noise reduction pin, 4V to 40V input, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tle2426.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLE2426xD</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tle2426.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="COMMON" type="power_in"/>
+        <pin num="3" name="IN" type="power_in"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="NOISE_REDUCTION" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM317_TO-220">
+      <description>1.5A 35V Adjustable Linear Regulator, TO-220</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm317.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317_TO-220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm317.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="uA7808">
+      <description>Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220/TO-263</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ua78.pdf</docs>
+      <footprints>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">uA7808</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ua78.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Reference_Voltage">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Reference_Voltage.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+8V">
+      <node ref="C207" pin="1" pintype="passive"/>
+      <node ref="C308" pin="1" pintype="passive"/>
+      <node ref="C408" pin="1" pintype="passive"/>
+      <node ref="FB301" pin="2" pintype="passive"/>
+      <node ref="FB401" pin="2" pintype="passive"/>
+      <node ref="J204" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U202" pin="3" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U303" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U403" pin="7" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="-8V">
+      <node ref="C208" pin="1" pintype="passive"/>
+      <node ref="C307" pin="1" pintype="passive"/>
+      <node ref="C407" pin="1" pintype="passive"/>
+      <node ref="FB302" pin="2" pintype="passive"/>
+      <node ref="FB402" pin="2" pintype="passive"/>
+      <node ref="J203" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U203" pin="3" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U303" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U403" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="3" name="/CSA+Amp/BIAS_IN">
+      <node ref="J104" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="JP301" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP401" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="4" name="/CSA+Amp/CSA_IN">
+      <node ref="J101" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R302" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/CSA+Amp/Out">
+      <node ref="J105" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R308" pin="2" pintype="passive"/>
+      <node ref="U303" pin="6" pintype="output"/>
+    </net>
+    <net code="6" name="/CSA+Amp1/CSA_IN">
+      <node ref="J101" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="R402" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/CSA+Amp1/Out">
+      <node ref="J106" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R408" pin="2" pintype="passive"/>
+      <node ref="U403" pin="6" pintype="output"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C203" pin="2" pintype="passive"/>
+      <node ref="C204" pin="2" pintype="passive"/>
+      <node ref="C206" pin="2" pintype="passive"/>
+      <node ref="C207" pin="2" pintype="passive"/>
+      <node ref="C208" pin="2" pintype="passive"/>
+      <node ref="C301" pin="1" pintype="passive"/>
+      <node ref="C303" pin="1" pintype="passive"/>
+      <node ref="C304" pin="2" pintype="passive"/>
+      <node ref="C305" pin="2" pintype="passive"/>
+      <node ref="C306" pin="2" pintype="passive"/>
+      <node ref="C307" pin="2" pintype="passive"/>
+      <node ref="C308" pin="2" pintype="passive"/>
+      <node ref="C401" pin="1" pintype="passive"/>
+      <node ref="C403" pin="1" pintype="passive"/>
+      <node ref="C404" pin="2" pintype="passive"/>
+      <node ref="C405" pin="2" pintype="passive"/>
+      <node ref="C406" pin="2" pintype="passive"/>
+      <node ref="C407" pin="2" pintype="passive"/>
+      <node ref="C408" pin="2" pintype="passive"/>
+      <node ref="H101" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H102" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H103" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H104" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J101" pin="0" pinfunction="PAD" pintype="passive"/>
+      <node ref="J101" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J101" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J101" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="J101" pin="14" pinfunction="P14" pintype="passive"/>
+      <node ref="J101" pin="15" pinfunction="P15" pintype="passive"/>
+      <node ref="J101" pin="16" pinfunction="P16" pintype="passive"/>
+      <node ref="J101" pin="18" pinfunction="P18" pintype="passive"/>
+      <node ref="J101" pin="19" pinfunction="P19" pintype="passive"/>
+      <node ref="J101" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J101" pin="20" pinfunction="P20" pintype="passive"/>
+      <node ref="J101" pin="21" pinfunction="P21" pintype="passive"/>
+      <node ref="J101" pin="23" pinfunction="P23" pintype="passive"/>
+      <node ref="J101" pin="24" pinfunction="P24" pintype="passive"/>
+      <node ref="J101" pin="25" pinfunction="P25" pintype="passive"/>
+      <node ref="J101" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J101" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J101" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J101" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J101" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J102" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J103" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J104" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J105" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J106" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J202" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J203" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J204" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J205" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J205" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J205" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J205" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J301" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J302" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J401" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J402" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R303" pin="1" pintype="passive"/>
+      <node ref="R306" pin="1" pintype="passive"/>
+      <node ref="R403" pin="1" pintype="passive"/>
+      <node ref="R406" pin="1" pintype="passive"/>
+      <node ref="RV301" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV401" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U202" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U203" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U204" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U301" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U301" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U301" pin="7" pinfunction="GND" pintype="input"/>
+      <node ref="U401" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U401" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U401" pin="7" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(C201-Pad1)">
+      <node ref="C201" pin="1" pintype="passive"/>
+      <node ref="R201" pin="1" pintype="passive"/>
+      <node ref="U201" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(C201-Pad2)">
+      <node ref="C201" pin="2" pintype="passive"/>
+      <node ref="C202" pin="2" pintype="passive"/>
+      <node ref="D202" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J201" pin="2" pintype="power_out"/>
+      <node ref="R202" pin="2" pintype="passive"/>
+      <node ref="U204" pin="2" pinfunction="COMMON" pintype="power_in"/>
+    </net>
+    <net code="11" name="Net-(C202-Pad1)">
+      <node ref="C202" pin="1" pintype="passive"/>
+      <node ref="C205" pin="1" pintype="passive"/>
+      <node ref="D201" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R203" pin="1" pintype="passive"/>
+      <node ref="U201" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U204" pin="3" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(C203-Pad1)">
+      <node ref="C203" pin="1" pintype="passive"/>
+      <node ref="D201" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J202" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U202" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(C204-Pad1)">
+      <node ref="C204" pin="1" pintype="passive"/>
+      <node ref="D202" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J202" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U203" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="14" name="Net-(C205-Pad2)">
+      <node ref="C205" pin="2" pintype="passive"/>
+      <node ref="C206" pin="1" pintype="passive"/>
+      <node ref="U204" pin="8" pinfunction="NOISE_REDUCTION" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C301-Pad2)">
+      <node ref="C301" pin="2" pintype="passive"/>
+      <node ref="R301" pin="1" pintype="passive"/>
+      <node ref="R304" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C302-Pad1)">
+      <node ref="C302" pin="1" pintype="passive"/>
+      <node ref="R302" pin="1" pintype="passive"/>
+      <node ref="R303" pin="2" pintype="passive"/>
+      <node ref="R305" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C302-Pad2)">
+      <node ref="C302" pin="2" pintype="passive"/>
+      <node ref="C303" pin="2" pintype="passive"/>
+      <node ref="R306" pin="2" pintype="passive"/>
+      <node ref="U301" pin="1" pinfunction="Input" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(C304-Pad1)">
+      <node ref="C304" pin="1" pintype="passive"/>
+      <node ref="FB301" pin="1" pintype="passive"/>
+      <node ref="U301" pin="6" pinfunction="+Vs" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(C305-Pad1)">
+      <node ref="C305" pin="1" pintype="passive"/>
+      <node ref="FB302" pin="1" pintype="passive"/>
+      <node ref="U301" pin="5" pinfunction="-Vs" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C306-Pad1)">
+      <node ref="C306" pin="1" pintype="passive"/>
+      <node ref="J301" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U301" pin="8" pinfunction="output" pintype="input"/>
+      <node ref="U303" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(C401-Pad2)">
+      <node ref="C401" pin="2" pintype="passive"/>
+      <node ref="R401" pin="1" pintype="passive"/>
+      <node ref="R404" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C402-Pad1)">
+      <node ref="C402" pin="1" pintype="passive"/>
+      <node ref="R402" pin="1" pintype="passive"/>
+      <node ref="R403" pin="2" pintype="passive"/>
+      <node ref="R405" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C402-Pad2)">
+      <node ref="C402" pin="2" pintype="passive"/>
+      <node ref="C403" pin="2" pintype="passive"/>
+      <node ref="R406" pin="2" pintype="passive"/>
+      <node ref="U401" pin="1" pinfunction="Input" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(C404-Pad1)">
+      <node ref="C404" pin="1" pintype="passive"/>
+      <node ref="FB401" pin="1" pintype="passive"/>
+      <node ref="U401" pin="6" pinfunction="+Vs" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(C405-Pad1)">
+      <node ref="C405" pin="1" pintype="passive"/>
+      <node ref="FB402" pin="1" pintype="passive"/>
+      <node ref="U401" pin="5" pinfunction="-Vs" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(C406-Pad1)">
+      <node ref="C406" pin="1" pintype="passive"/>
+      <node ref="J401" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U401" pin="8" pinfunction="output" pintype="input"/>
+      <node ref="U403" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(J101-Pad17)">
+      <node ref="J101" pin="17" pinfunction="P17" pintype="passive"/>
+      <node ref="J101" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J102" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J101-Pad22)">
+      <node ref="J101" pin="22" pinfunction="P22" pintype="passive"/>
+      <node ref="J101" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="J103" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J201-Pad1)">
+      <node ref="J201" pin="1" pintype="power_out"/>
+      <node ref="TH201" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J302-Pad2)">
+      <node ref="J302" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R307" pin="1" pintype="passive"/>
+      <node ref="RV301" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(J402-Pad2)">
+      <node ref="J402" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R407" pin="1" pintype="passive"/>
+      <node ref="RV401" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(JP301-Pad2)">
+      <node ref="JP301" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R301" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(JP401-Pad2)">
+      <node ref="JP401" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R401" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(L201-Pad1)">
+      <node ref="L201" pin="1" pintype="passive"/>
+      <node ref="TH201" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(L201-Pad2)">
+      <node ref="L201" pin="2" pintype="passive"/>
+      <node ref="R201" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(R202-Pad1)">
+      <node ref="R202" pin="1" pintype="passive"/>
+      <node ref="R203" pin="2" pintype="passive"/>
+      <node ref="U201" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(R304-Pad2)">
+      <node ref="R304" pin="2" pintype="passive"/>
+      <node ref="R305" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(R307-Pad2)">
+      <node ref="R307" pin="2" pintype="passive"/>
+      <node ref="R308" pin="1" pintype="passive"/>
+      <node ref="U303" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(R404-Pad2)">
+      <node ref="R404" pin="2" pintype="passive"/>
+      <node ref="R405" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(R407-Pad2)">
+      <node ref="R407" pin="2" pintype="passive"/>
+      <node ref="R408" pin="1" pintype="passive"/>
+      <node ref="U403" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="41" name="unconnected-(RV301-Pad3)">
+      <node ref="RV301" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="42" name="unconnected-(RV401-Pad3)">
+      <node ref="RV401" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="43" name="unconnected-(U204-Pad4)">
+      <node ref="U204" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U204-Pad5)">
+      <node ref="U204" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U204-Pad6)">
+      <node ref="U204" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U204-Pad7)">
+      <node ref="U204" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U301-Pad3)">
+      <node ref="U301" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U303-Pad1)">
+      <node ref="U303" pin="1" pinfunction="NULL" pintype="input+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U303-Pad5)">
+      <node ref="U303" pin="5" pinfunction="NULL" pintype="input+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U303-Pad8)">
+      <node ref="U303" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U401-Pad3)">
+      <node ref="U401" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U403-Pad1)">
+      <node ref="U403" pin="1" pinfunction="NULL" pintype="input+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U403-Pad5)">
+      <node ref="U403" pin="5" pinfunction="NULL" pintype="input+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U403-Pad8)">
+      <node ref="U403" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
