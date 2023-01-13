@@ -1,0 +1,54 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Mouser,Digikey
+1,Unpolarized capacitor,C,C101 C301 C401,10n,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,3,https://www.mouser.com/datasheet/2/212/KEM_C1007_X8R_ULTRA_150C_SMD-1102703.pdf,80-C1206C104K3HAUTO,
+2,Unpolarized capacitor,C,C302 C402,10n,C_Disc_D5.0mm_W2.5mm_P5.00mm,2,https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fa_en.pdf?ref_disty=mouser,810-FA26C0G2J103JNU6,
+3,"Unpolarized capacitor, small symbol",C_Small,C205 C206 C207 C208 C307 C308 C407 C408,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,8,https://www.mouser.com/ProductDetail/KEMET/C0805C104K5RAC7411?qs=jbRM9o5BbzPcVXF0wW9AYg%3D%3D,80-C0805C104K5RACLR,
+4,"Unpolarized capacitor, small symbol",C_Small,C203 C204,0.33uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,https://www.mouser.com/datasheet/2/212/1/KEM_C1078_X7R_FT_CAP_AUTO_SMD-1103315.pdf,80-C0805X334K5RAUTO,
+5,"Unpolarized capacitor, small symbol",C_Small,C201 C202,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf?ref_disty=mouser,810-C2012X7R1H105K,
+6,"Unpolarized capacitor, small symbol",C_Small,C304 C305 C404 C405,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4,https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf,963-GMK212BBJ106KG-T,
+7,"Unpolarized capacitor, small symbol",C_Small,C303 C306 C309 C403 C406 C409,open,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,6,~,80-C0805C104K5RACLR,
+8,Schottky diode,D_Schottky_1,D201 D202,D,D_SOD-123,2,https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rbr2l40addte25-e.pdf,755-RBR2L40ADDTE25,
+9,Schottky diode,D_Schottky,D203,D,D_SOD-123,1,https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rbr2l40addte25-e.pdf,755-RBR2L40ADDTE25,
+10,"Ferrite bead, small symbol",FerriteBead_Small,FB301 FB302 FB401 FB402,FerriteBead_Small,L_1206_3216Metric_Pad1.22x1.90mm_HandSolder,4,https://www.mouser.com/datasheet/2/54/Bourns_MGMUMZ_datasheet-2997887.pdf,652-MU3261-301Y,732-6715-1-ND
+11,DC Barrel Jack,Barrel_Jack,J201,Barrel_Jack,SolderWire-0.75sqmm_1x02_P4.8mm_D1.25mm_OD2.3mm,1,https://www.digikey.com/en/products/detail/tensility-international-corp/54-00151/9829987,,839-1580-ND
+12,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J105 J106 J107 J108 J109,Bias In,SMA_Amphenol_132203-12_Horizontal,5,https://www.mouser.com/datasheet/2/238/consma002-l-g-1544715.pdf,712-CONSMA002-L-G,
+13,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Male,J301 J302 J401 J402,CA probe,PinHeader_1x02_P2.54mm_Vertical,4,~,,
+14,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J203,DC Power,PinHeader_1x03_P2.54mm_Vertical,1,~,,
+15,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J101 J102 J103 J104 J204 J205,Direct2 In,PinHeader_1x02_P2.54mm_Vertical,6,~,,
+16,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J202,GND,PinHeader_1x04_P2.54mm_Vertical,1,~,,
+17,"Jumper, 2-pole, open",Jumper_2_Open,JP301 JP401,Jumper_2_Open,PinHeader_1x02_P2.54mm_Vertical,2,~,,
+18,"Inductor, small symbol",L_Small,L201,L_Small,L_Radial_D7.0mm_P3.00mm,1,https://www.mouser.com/datasheet/2/54/rlb-777833.pdf,652-RLB0812-101KL,RLB0812-101KL-ND
+19,"Resistor, small symbol",R_Small,R302 R402,0R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,https://www.mouser.com/datasheet/2/427/crcwhpe3-1713858.pdf,71-CRCW08050000Z0EAH,
+20,"Resistor, small US symbol",R_Small_US,R201,4.7,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,1,https://www.mouser.com/datasheet/2/418/5/ENG_DS_9_1773463_7_G-https://www.mouser.com/datasheet/2/315/AOA0000C331-1141874.pdf,667-ERJ-P06F4300V,A121265CT-ND
+21,"Resistor, small US symbol",R_Small_US,R203,430,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.mouser.com/datasheet/2/315/AOA0000C331-1141874.pdf,667-ERJ-P06F4300V,
+22,"Resistor, small symbol",R_Small,R308 R408,750,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,~,71-CRCW0805750RFKEAC,
+23,"Resistor, small US symbol",R_Small_US,R202,7.15k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.mouser.com/datasheet/2/348/ROHM_S_A0011075115_1-2563276.pdf,755-KTR10EZPF7151,311-2.94KCRCT-ND
+24,"Resistor, small symbol",R_Small,R307 R407,20k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,~,667-ERJ-6ENF2002V,
+25,"Resistor, small symbol",R_Small,R101,1M,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,https://www.mouser.com/datasheet/2/315/AOA0000C334-1314047.pdf,667-ERJ-S06F1005V,
+26,"Resistor, small symbol",R_Small,R301 R401,10M,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,https://www.mouser.com/datasheet/2/315/AOA0000C334-1314047.pdf,667-ERJ-S06F1005V,
+27,"Resistor, small symbol",R_Small,R304 R305 R404 R405,100M,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,4,https://www.mouser.com/datasheet/2/427/dcrcwhre3-1761765.pdf,71-CRCW1206100MJPEAR,
+28,"Resistor, small symbol",R_Small,R303 R403,open,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,~,,
+29,"Resistor, small symbol",R_Small,R306 R406,open,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,~,,
+30,Trim-potentiometer,R_Potentiometer_Trim,Rv301 Rv401,10k,Potentiometer_Bourns_3266W_Vertical,2,~,652-3266W-1-103LF,
+31,"Temperature dependent resistor, positive temperature coefficient, US symbol",Thermistor_PTC_US,TH201,PTC 200mA,Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder,1,https://www.mouser.com/datasheet/2/643/ds_CP_0zch_series-1664103.pdf,530-0ZCH0020FF2E,
+32,,CR110,U301 U401,CR110,CR11x,2,,575-8019300810012000,
+33,"1.5A 35V Adjustable Linear Regulator, TO-220",LM317_TO-220,U201,LM317L,SOT-89-3_Handsoldering,1,https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/lm317l,595-LM317LCPK,296-50352-1-ND
+34,"Single Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8",TL071,U302 U402,TL071,SOIC-8_3.9x4.9mm_P1.27mm,2,http://www.ti.com/lit/ds/symlink/tl071.pdf,595-TL071CDR,
+35,"Precision virtual ground, noise reduction pin, 4V to 40V input, SOIC-8",TLE2426xD,U204,TLE2426xP,SOIC-8_3.9x4.9mm_P1.27mm,1,https://www.mouser.com/c/semiconductors/power-management-ics/voltage-references/?m=Texas%20Instruments&series=TLE2426-EP,595-TLE2426MD,296-47278-1-ND
+36,"Positive 1A 35V Linear Regulator, Fixed Output 8V, TO-220/TO-263",uA7808,U202,UA78M08,TO-252-3_TabPin2,1,https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/ua78m,595-UA78M08CKVURG3,296-12612-1-ND
+37,"Negative 1A 35V Linear Regulator, Fixed Output 8V, TO-220",LM7908_TO220,U203,UA79M08,TO-252-3_TabPin2,1,https://www.onsemi.com/pub/Collateral/MC7900-D.PDF,595-UA79M08CKVURG3,296-19678-1-ND
+
+
+
+
+
+Component Groups:,37
+Component Count:,86
+Fitted Components:,86
+Number of PCBs:,1
+Total components:,86
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,1/13/2023 3:21:15 PM
+Schematic Source:,Dual-CSA+Amplifier.kicad_sch
+KiCad Version:,Eeschema (6.0.9)

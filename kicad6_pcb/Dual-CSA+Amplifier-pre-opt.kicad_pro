@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.7999999999999999
+          "min_clearance": 1.0
         }
       },
       "diff_pair_dimensions": [
@@ -55,10 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|190671000|149860000|057429ea-de99-4245-9e11-37d6c2a4f9a3|59f9d853-ac63-4e97-8fc2-ef9874c2f0eb",
-        "silk_over_copper|190920000|121920000|8dc93dcf-be14-42c3-a236-568663dad888|c7213769-da94-4bff-9287-a6a8f914cafb"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -409,6 +406,7 @@
           "+8V",
           "-8V",
           "GND",
+          "Net-(L201-Pad1)",
           "Net-(L201-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
